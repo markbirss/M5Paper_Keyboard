@@ -1,4 +1,4 @@
-#English Translation from oroginal
+# English Translation from original github link below
 https://github.com/robo8080/M5Paper_Keyboard <br>
 
 # M5Paper_Keyboard
