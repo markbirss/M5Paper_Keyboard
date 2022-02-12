@@ -41,7 +41,7 @@ The M5Stack program (M5Stack_Serial2_test) for checking the operation of M5Paper
 * Arduino IDE (I checked the operation with 1.8.13.)<br>
 * [Arduino core for the ESP32](https://github.com/espressif/arduino-esp32 "Title")<br>
 * [M5Stack Library](https://github.com/m5stack/M5Stack "Title")
-* [LovyanGFXライブラリ](https://github.com/lovyan03/LovyanGFX "Title")
+* [LovyanGFX](https://github.com/lovyan03/LovyanGFX "Title")
 
 The library is easy to install from the Arduino IDE's Sketch | Include Libraries | Manage Libraries ....
 
