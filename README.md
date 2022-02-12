@@ -15,8 +15,8 @@ M5Paper_FactoryTest <https://github.com/m5stack/M5Paper_FactoryTest><br>
 * Arduino IDE (I checked the operation with 1.8.13.)<br>
 * [Arduino core for the ESP32](https://github.com/espressif/arduino-esp32 "Title")
 * [M5Paper Library](https://github.com/m5stack/M5EPD "Title")
-* [NimBLE-Arduino Library](https://github.com/h2zero/NimBLE-Arduino "Title") (BLEキーボードとして使う場合）
-* [ESP32 NimBLE Keyboard library](https://github.com/wakwak-koba/ESP32-NimBLE-Keyboard "Title") (BLEキーボードとして使う場合）
+* [NimBLE-Arduino Library](https://github.com/h2zero/NimBLE-Arduino "Title") 
+* [ESP32 NimBLE Keyboard library](https://github.com/wakwak-koba/ESP32-NimBLE-Keyboard "Title") 
 <br>
 
 The library is easy to install from the Arduino IDE's Sketch | Include Libraries | Manage Libraries ....
@@ -37,7 +37,7 @@ The M5Stack program (M5Stack_Serial2_test) for checking the operation of M5Paper
 ![画像2](images/image2.png)<br><br>
 
 ### What you need ###
-* [M5Stack](http://www.m5stack.com/ "Title") (Fireで動作確認をしました。)<br>
+* [M5Stack](http://www.m5stack.com/ "Title")<br>
 * Arduino IDE (I checked the operation with 1.8.13.)<br>
 * [Arduino core for the ESP32](https://github.com/espressif/arduino-esp32 "Title")<br>
 * [M5Stack Library](https://github.com/m5stack/M5Stack "Title")
