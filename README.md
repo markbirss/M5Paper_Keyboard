@@ -2,8 +2,8 @@
 https://github.com/robo8080/M5Paper_Keyboard <br>
 
 # M5Paper_Keyboard
-M5Paper_Keyboard is a serial I / F keyboard that runs on M5Paper.<br>
-It also supports BLE keyboard.<br><br>
+M5Paper_Keyboard is a serial Interface keyboard that runs on M5Paper.<br>
+It also supports BLE keyboard Mode.<br><br>
 This is a modified version of the M5Paper_FactoryTest keyboard process.。<br>
 Click here for the original base.<br>
 M5Paper_FactoryTest <https://github.com/m5stack/M5Paper_FactoryTest><br>
