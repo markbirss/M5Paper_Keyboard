@@ -22,7 +22,7 @@ M5Paper_FactoryTest <https://github.com/m5stack/M5Paper_FactoryTest><br>
 The library is easy to install from the Arduino IDE's Sketch | Include Libraries | Manage Libraries ....
 
 ### Serial port specifications ###
-* M5PaperのPORT Cを使用します。設定は以下の通り。<br>
+* Use M5 Paper's PORT C. The settings are as follows.<br>
     // Serial2.begin(unsigned long baud, uint32_t config, int8_t rxPin, int8_t txPin, bool invert)<br>
     Serial2.begin(115200, SERIAL_8N1, 19, 18);
 
